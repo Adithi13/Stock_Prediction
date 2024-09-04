@@ -20,7 +20,7 @@ The objective of this project is to forecast stock prices based on historical da
 
 1. **Clone the repository:**
   ```
-   git clone https://github.com/Adithi13/Stock_Prediction.git
+    git clone https://github.com/Adithi13/Stock_Prediction.git
   ```
 
 2. **Navigate to the project directory:**
