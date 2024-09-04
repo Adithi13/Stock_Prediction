@@ -26,7 +26,7 @@ The objective of this project is to forecast stock prices based on historical da
 2. **Navigate to the project directory:**
 
     ```
-      cd Stock_Prediction
+   cd Stock_Prediction
     ```
 
 ## Results
